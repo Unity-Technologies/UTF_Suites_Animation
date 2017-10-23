@@ -1,3 +1,6 @@
 [submodule "Assets/UTF_Core"]
 	path = Assets/UTF_Core
 	url = git@github.com:Unity-Technologies/UTF_Core.git
+[submodule "Assets/UTF_Tests_Animation"]
+	path = Assets/UTF_Tests_Animation
+	url = git@github.com:Unity-Technologies/UTF_Tests_Animation.git
